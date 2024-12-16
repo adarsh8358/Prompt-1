@@ -1,0 +1,33 @@
+@media (max-width:600px) {
+
+    .items{
+        display: none;
+    }
+    
+    .ri-menu-fill{
+        display: block;
+        margin-right: 3%;
+    }
+
+    .sib{
+        margin-left: 30%;
+    }
+
+    .logo img{
+        height: 90px;
+    }
+
+    h1{
+        font-size: 30px;
+        margin-top: 30%;
+    }
+
+    .goals{
+        font-size: 20px;
+        margin-top: -20%;
+    }
+
+    .rnb{
+        margin-top: 5%;
+    }
+}
